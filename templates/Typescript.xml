@@ -1,0 +1,16 @@
+<templateSet group="Typescript">
+  <template name="update" value="export const update = (action: Action&lt;any&gt;, state: $MODEL$) =&gt; {&#10;  switch (action.type) {&#10;    case '$CASE$':&#10;      return $RESULT$&#10;    default: &#10;      return state&#10;  }&#10;}" description="creates a redux update function" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="iuv" value="export const view = () =&gt; {&#10;    return h('div.$NAME$', ['SAMPLE TEXT $NAME$'])&#10;}&#10;&#10;export const reducers = {} &#10;&#10;export const commands = {}&#10;&#10;export const init = () =&gt; {&#10;    return {}&#10;}&#10;&#10;export const update = combineReducers(reducers)&#10;&#10;export const command = combineCommands(commands)" description="creates init() update() and view() functions" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

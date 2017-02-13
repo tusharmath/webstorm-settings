@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="TypeScript/Specify variable type explicitly" />
+  </component>
+</application>
