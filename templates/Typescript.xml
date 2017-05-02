@@ -7,9 +7,8 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="iuv" value="export interface $INAME$ {&#10;&#10;}&#10;&#10;export interface $INAME$Params {&#10;&#10;}&#10;&#10;export const init = (): $INAME$ =&gt; {&#10;    return {}&#10;}&#10;&#10;export const view = (e: Hoe, m: $INAME$, p: $INAME$Params) =&gt; {&#10;    return h('div.$NAME$', ['TODO: $NAME$'])&#10;}&#10;&#10;export const reducers = {}&#10;export const commands = {}&#10;&#10;export const update = matchActionR(reducers)&#10;export const command = matchActionC(commands)" description="creates init() update() and view() functions" toReformat="true" toShortenFQNames="true">
+  <template name="iuv" value="export interface $INAME$ {&#10;}&#10;&#10;export interface $INAME$Params {&#10;}&#10;&#10;export const init = (): $INAME$ =&gt; {&#10;    return {}&#10;}&#10;&#10;export const view = (e: Hoe, m: $INAME$, p: $INAME$Params) =&gt; {&#10;    return h('div.$INAME$', ['TODO: $INAME$'])&#10;}&#10;&#10;export const reducers = {}&#10;export const commands = {}&#10;&#10;export const update = matchActionR(reducers)&#10;export const command = matchActionC(commands)" description="creates init() update() and view() functions" toReformat="true" toShortenFQNames="true">
     <variable name="INAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
