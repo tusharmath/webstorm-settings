@@ -10,14 +10,16 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.</mask>
+      <mask>*.tc</mask>
+      <mask>*.t</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.t</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
