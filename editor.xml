@@ -4,6 +4,11 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\btodo\([a-z]*\)\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
   </component>
