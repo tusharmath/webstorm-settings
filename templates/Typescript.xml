@@ -13,4 +13,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="fws" value="$PROP$: forwardS('$PROP$', $PROP$.update)" description="Creates forwardS" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fwe" value="$PROP$: forwardE('$PROP$', $PROP$.command)" description="Creates forwardE" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
