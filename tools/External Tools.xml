@@ -2,7 +2,7 @@
   <tool name="Prettify" description="uses prettify" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="./node_modules/.bin/prettier" />
-      <option name="PARAMETERS" value="--print-width 120 --write --single-quote --no-semi --no-bracket-spacing --parser typescript $FilePathRelativeToProjectRoot$" />
+      <option name="PARAMETERS" value="--print-width 120 --write --single-quote --no-semi --no-bracket-spacing  $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
