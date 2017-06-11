@@ -48,6 +48,7 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="ReformatCode" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SplitHorizontally">
@@ -80,7 +81,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Tool_External Tools_prettier">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Unsplit">
