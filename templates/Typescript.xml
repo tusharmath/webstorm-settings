@@ -25,7 +25,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="tog" value="R.tap(console.log)" toReformat="false" toShortenFQNames="true">
+  <template name="tog" value="R.tap(console.log)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
