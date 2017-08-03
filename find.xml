@@ -5,15 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.graphqls" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.ts,</mask>
@@ -28,14 +21,22 @@
       <mask>*.cs</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>**</mask>
       <mask>**.</mask>
       <mask>**.c</mask>
       <mask>**.cs</mask>
       <mask>**.css</mask>
       <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grap</mask>
+      <mask>*.graph</mask>
+      <mask>*.graphq</mask>
+      <mask>*.graphql</mask>
+      <mask>*.graphqls</mask>
     </recentFileMasks>
   </component>
 </application>
