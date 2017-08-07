@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="gql2ts" />
+      <option name="program" value="$USER_HOME$/Documents/Projects/mobile-web-dream11/node_modules/.bin/gql2ts" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
