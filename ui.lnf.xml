@@ -12,7 +12,7 @@
       <NestingRule child-file-suffix=".min.css.map" parent-file-suffix=".css" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".es6" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".es6" />
-      <NestingRule child-file-suffix=".graphql.d.ts" parent-file-suffix=".graphql" />
+      <NestingRule child-file-suffix=".ts" parent-file-suffix=".graphql" />
       <NestingRule child-file-suffix=".html" parent-file-suffix=".haml" />
       <NestingRule child-file-suffix=".html" parent-file-suffix=".jade" />
       <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
