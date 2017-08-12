@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.s</mask>
@@ -14,14 +15,11 @@
       <mask>*.ts,*.css</mask>
       <mask>*.ts\</mask>
       <mask>*.tc</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>**</mask>
       <mask>**.</mask>
       <mask>**.c</mask>
       <mask>**.cs</mask>
       <mask>**.css</mask>
-      <mask>*.css</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
@@ -34,6 +32,9 @@
       <mask>*.graphqls</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
