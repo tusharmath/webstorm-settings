@@ -34,6 +34,7 @@
       <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
