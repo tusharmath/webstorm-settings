@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="TypeScript/Specify variable type explicitly" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
   </component>
 </application>
