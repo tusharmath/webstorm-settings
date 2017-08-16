@@ -1,14 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.ts" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.s</mask>
-      <mask>*.ts,</mask>
-      <mask>*.ts,*</mask>
-      <mask>*.ts,*.</mask>
       <mask>*.ts,*.c</mask>
       <mask>*.ts,*.cs</mask>
       <mask>*.ts,*.css</mask>
@@ -34,6 +32,11 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.te.ts</mask>
+      <mask>*.tes.ts</mask>
+      <mask>*.test..ts</mask>
+      <mask>*.test.ts</mask>
     </recentFileMasks>
   </component>
 </application>
