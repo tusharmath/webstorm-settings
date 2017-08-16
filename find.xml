@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.ts,*.c</mask>
-      <mask>*.ts,*.cs</mask>
       <mask>*.ts,*.css</mask>
       <mask>*.ts\</mask>
       <mask>*.tc</mask>
@@ -25,8 +24,6 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*..ts</mask>
@@ -34,6 +31,10 @@
       <mask>*.tes.ts</mask>
       <mask>*.test..ts</mask>
       <mask>*.test.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
