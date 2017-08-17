@@ -30,4 +30,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="todo" value="/*&#10; * TODO($CONTEXT$): when $WHEN$&#10; * do $WHAT$&#10; * so that $WHY$&#10; */&#10;" description="Create a new todo comment" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
