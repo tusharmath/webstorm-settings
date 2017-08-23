@@ -3,17 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.graphqls" />
+    <option name="FILE_MASK" value="*.test.ts" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.t</mask>
-      <mask>*..ts</mask>
       <mask>*.te.ts</mask>
       <mask>*.tes.ts</mask>
       <mask>*.test..ts</mask>
-      <mask>*.test.ts</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>t</mask>
@@ -30,11 +24,17 @@
       <mask>graphQL</mask>
       <mask>*graphQL</mask>
       <mask>*.graphQL</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.grap</mask>
       <mask>*.graphqls</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.te</mask>
+      <mask>*.test</mask>
+      <mask>*.test.</mask>
+      <mask>*.test.t</mask>
+      <mask>*.test.ts</mask>
     </recentFileMasks>
   </component>
 </application>
