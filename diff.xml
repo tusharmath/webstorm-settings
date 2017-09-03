@@ -31,6 +31,11 @@
           <option name="SHOW_INDENT_LINES" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
