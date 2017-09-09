@@ -40,4 +40,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="mtest" value="describe('$SUITE$', () =&gt; {&#10;    it('should $MESSAGE$', () =&gt; {&#10;        &#10;    }) &#10;})" description="Mocha Snippet" toReformat="true" toShortenFQNames="true">
+    <variable name="SUITE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
