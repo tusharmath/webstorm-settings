@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="CONTRIBUTION.MD" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
