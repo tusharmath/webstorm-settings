@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>gra</mask>
       <mask>grapqh</mask>
@@ -29,11 +30,11 @@
       <mask>*spo.ts</mask>
       <mask>*spor.ts</mask>
       <mask>*sport.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
