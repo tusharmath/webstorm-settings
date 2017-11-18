@@ -4,7 +4,7 @@
       <map>
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
-        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
+        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="false" />
       </map>
     </option>
   </component>
