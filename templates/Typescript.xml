@@ -48,4 +48,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="flog" value="// FIXME: $MESSAGE$&#10;console.warn('FIXME: $MESSAGE$') // tslint:disable-line no-console" description="Logs todo items on the screen" toReformat="true" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
