@@ -3,15 +3,16 @@
     <extensionMap>
       <removed_mapping ext="mjs" type="ECMAScript 6" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".graphqlconfig" type="JSON" />
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="CONTRIBUTION.MD" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="cli" type="PLAIN_TEXT" />
-      <mapping ext="snap" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="snap" type="PLAIN_TEXT" />
       <mapping pattern="Rockerfile" type="TSLint" />
     </extensionMap>
   </component>
