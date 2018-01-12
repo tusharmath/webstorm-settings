@@ -1,5 +1,6 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="SOFT_MARGINS" value="80" />
   <TypeScriptCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
