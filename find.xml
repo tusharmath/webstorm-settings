@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>grap</mask>
       <mask>graph</mask>
@@ -37,8 +37,8 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.css</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
