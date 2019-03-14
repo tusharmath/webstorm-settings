@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mobile-web-dream11" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".tscodemodrc" type="JSON5" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
