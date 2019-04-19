@@ -10,4 +10,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="???" value="throw new TypeError('Not implemented')" description="Throws not implemented exception" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
