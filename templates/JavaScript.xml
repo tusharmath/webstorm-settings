@@ -19,7 +19,7 @@
   <template name="ass" value="const actual = $ACTUAL$&#10;const expected = $EXPECTED$&#10;&#10;assert.$COMPARATOR$(actual, expected)" description="Inserts deep equal" toReformat="false" toShortenFQNames="true">
     <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="COMPARATOR" expression="" defaultValue="deepStrictEqual" alwaysStopAt="true" />
+    <variable name="COMPARATOR" expression="complete()" defaultValue="deepStrictEqual" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
