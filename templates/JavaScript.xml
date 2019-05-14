@@ -23,7 +23,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="R1" value="R$I$, E$I$, A$I$" toReformat="false" toShortenFQNames="true">
+  <template name="R1" value="R$I$, E$I$, A$I$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="I" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
