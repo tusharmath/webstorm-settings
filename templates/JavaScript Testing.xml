@@ -1,0 +1,10 @@
+<templateSet group="JavaScript Testing">
+  <template name="forin" value="for (let $i$ in $obj$) {&#10;    if($obj$.hasOwnProperty($i$)) {&#10;        const value = $obj$[$i$]&#10;        $ITERATE$&#10;    }&#10;}" description="Creates a for in loop" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITERATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
