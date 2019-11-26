@@ -1,4 +1,9 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="300" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Cascadia Code" />
@@ -33,6 +38,5 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
